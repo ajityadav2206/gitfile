@@ -4,5 +4,5 @@ git add file name
 git commit -m "commit message"
 git log --oneline
 git clone [github repo ling past here]
-
+git remote set-url origin url
 
